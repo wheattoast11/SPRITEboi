@@ -127,4 +127,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Hugging Face for transformer models
 - Electric SQL for PGlite
-- Model Context Protocol for AI orchestration
+- Anthropic for the incredible Model Context Protocol
+- DeepSeek and Meta for creating incredible local open source models
