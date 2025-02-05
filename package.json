@@ -13,6 +13,7 @@
     "@electric-sql/pglite": "0.2.16",
     "@electric-sql/pglite-repl": "0.2.16",
     "@modelcontextprotocol/sdk": "1.4.1",
+    "@huggingface/transformers": "3.3.2",
     "dompurify": "^3.1.2",
     "lodash": "^4.17.21",
     "lucide-react": "^0.344.0",
