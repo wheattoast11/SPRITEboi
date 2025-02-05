@@ -10,7 +10,7 @@ That mean's your chrome tab is literally running:
 
 - Three separate SOTA tiny generative models with vision, text, audio understanding with chat and generation capabilities. Generate (smol) sprite based music videos right in your browser
 - A full PostGres database thanks to PGLite WASM database that saves to your local disk for persistence. 
-- A full Model Context Protocol server directly integrated with your browser's memory (https://modelcontextprotocol.io/introduction) that can intelligently manage context, memory, and tools for the LLMs
+- **Never done before in an app** A full Model Context Protocol server directly integrated with your browser's memory (https://modelcontextprotocol.io/introduction) that can intelligently manage context, memory, and tools for the LLMs
 - Intelligent search and storage of all your generated assets and chat logs, with memory and memory retrieval
 - Fully managed SQL queries and tools to allow the models to execute database commands, use the internet, and complete tasks for you - baby agents :)
 - Accelerated and powered by your GPUs without having to download or install anything
