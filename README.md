@@ -53,7 +53,7 @@ That mean's your chrome tab is literally running:
 
 1. Clone the repository:
 ```bash
-[git clone <repository-url>](https://github.com/wheattoast11/SPRITEboi.git)
+git clone https://github.com/wheattoast11/SPRITEboi.git
 cd sprite-studio
 ```
 
